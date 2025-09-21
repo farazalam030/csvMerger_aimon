@@ -1,11 +1,4 @@
-Latitude_,34.047049
-Longitude,76.314388
-Elevation(m),3952
-Plot_ID,642
-Merged_IDs,,,647,651,655,660
-Habitat
-Date,26.07.2023
-Species,#individuals,Cover_(%)
+Species_name,#individuals,Cover_(%)
 Arnebia_euchroma,4,5
 Aconogon_tortuosum,1,2
 Ephedra_geradiana,7,8
@@ -19,4 +12,4 @@ Potentilla_saundersiana,6,4
 Cotoneaster_affinis,1,3
 Oxytropis_glabra,4,1
 Lindelofia_stylosa,3,4
-Elymus_canaliculatus_(g),,5
+Elymus_canaliculatus_(g),12,5

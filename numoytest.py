@@ -1,7 +1,7 @@
 import pandas as pd
 # import numpy as np
 
-# df = pd.DataFrame({'col1': [10, 20, 30, 40],
+# df = pd.DataFrame({'col1': [10, 20, 30, 40]
 #                    'col2': ['A', 'B', 'C', 'D']})
 
 # # Change values in 'col1': if 'col2' is 'B', assign 99, otherwise keep original 'col1' value
@@ -15,8 +15,8 @@ import pandas as pd
 # print(df)
 
 #
-# data = [{'Name': 'Alice', 'Age': 25, 'City': 'New York'},
-        # {'Name': 'Bob', 'Age': 30, 'City': 'London'},
+# data = [{'Name': 'Alice', 'Age': 25, 'City': 'New York'}
+        # {'Name': 'Bob', 'Age': 30, 'City': 'London'}
         # {'Name': 'Charlie', 'Age': 35, 'City': 'Paris'}]
 # df = pd.DataFrame(data)
 # print(df)
@@ -26,8 +26,8 @@ import pandas as pd
 import pandas as pd
 
 # Create a sample DataFrame
-data = {'Name': ['Alice', 'Bob', 'Charlie', 'David'],
-        'Age': [25, 30, 35, 40],
+data = {'Name': ['Alice', 'Bob', 'Charlie', 'David']
+        'Age': [25, 30, 35, 40]
         'City': ['New York', 'London', 'Paris', 'New York']}
 df = pd.DataFrame(data)
 print(df)
