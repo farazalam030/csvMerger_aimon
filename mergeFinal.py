@@ -23,22 +23,14 @@ for csvfile in CSVsList:
     df_cleaned['#individuals'] = np.where(pd.isna(df_cleaned['#individuals']), df_cleaned['Cover_(%)'], df_cleaned['#individuals'])
     csvRowKey=inputCSV.split('#')[1].split('.')[0].strip()
     print("csvRowKey = ",csvRowKey)
-    # spSet=set(spList)
-
-    # print ( "###################### "+inputCSV + " ######################")
     print(df_cleaned)
     speciesListInCurrCSV=df_cleaned['Species'].to_list()
-    for phylum in speciesListInCurrCSV:
-        individuals=(df_cleaned.loc[df_cleaned['Species'] == phylum]['#individuals'])
-        # individuals=int(individuals)
+    print('#####speciesListInCurrCSV#####\n', speciesListInCurrCSV)
+    for specName in speciesListInCurrCSV:
+        individuals=(df_cleaned.loc[df_cleaned['Species']== specName.strip()]['#individuals'])
+        individuals=int(individuals)
         # print('individuals = ',individuals)
-        mdf.loc[mdf['FIDSpecies'] == csvRowKey,phylum] = individuals
+        mdf.loc[mdf['FIDSpecies'] == csvRowKey,specName] = individuals
 
-# speciesName=df['Species name']
-# print (speciesName). df_cleaned['#individuals'] == '' or
-
-spDict= dict.fromkeys(spList,0);
-print (spList)
 mdf.to_csv('Output.csv',index=False)
-mdfT=mdf.transpose()
-mdfT.to_csv('OutputTF.csv',index=False)
+
