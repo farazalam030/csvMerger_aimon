@@ -1,10 +1,4 @@
-Locality,Before_Akshu,
-Date,20.08.2024,
-Habitat,Desert_steppe,
-Elevation,4023,
-Latitude,33.77005,
-Longitude,76.46368333,
-Species,#individuals,%Cover
+Species,individuals_freq,Cover_percentage
 Astragalus_oplites,5,2
 Scorzonera_virgata,2,1
 Dianthus_anatolicus,2,0.1

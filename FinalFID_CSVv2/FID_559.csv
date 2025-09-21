@@ -1,4 +1,4 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Smenovia_lasiocarpa,1,3
 Astragalus_rhizanthus,3,4
 Oxytropis_glabra,7,4
@@ -17,11 +17,11 @@ Gentiana_squarrosa,5,2
 Pleurospermum_candollei,1,2
 Silene_rechingeri,30,15
 Nepeta_discolor,8,5
-Elymus_sp._(g),5,3
+Elymus_sp_(g),5,3
 Lonicera_spinosa,1,7
 Elymus_nutans_(g),10,5
 Astragalus_oplites,5,3
-Sibbaldianthe_bifurca�,9,4
+Sibbaldianthe_bifurca,9,4
 Medicago_falcata,10,15
 Nepeta_discolor,10,8
 Arnebia_euchroma,1,3

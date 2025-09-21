@@ -1,6 +1,6 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Arnebia_euchroma,4,5
-Aconogon_tortuosum,1,2
+Aconogonon_tortuosum,1,2
 Ephedra_geradiana,7,8
 Geranium_himalayense,12,6
 Bistorta_affinis,10,5

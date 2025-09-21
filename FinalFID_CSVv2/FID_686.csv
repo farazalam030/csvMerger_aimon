@@ -1,11 +1,5 @@
-Locality,Sankoo,
-Date,15.08.24,
-Habitat,Hay_Meadow,
-Elevation,3089,
-Latitude,34.27141667,
-Longitude,75.99738333,
-Species,#individuals,%Cover
-Bothriochloa_ischaemum_(g),,50
+Species,individuals_freq,Cover_percentage
+Bothriochloa_ischaemum_(g),50
 Astragalus_rhizanthus,3,5
 Rosa_webbiana,5,12
 Medicago_falcata,10,8
@@ -16,9 +10,9 @@ Verbascum_thapsus,10,4
 Dianthus_anatolicus,8,2
 Cuscuta_europaea,10,0.5
 Plantago_depressa,1,0.5
-Allium_sp._(unique),1,0.1
+Allium_sp_(unique),1,0.1
 Potentilla_multifida,7,1
 Sibbaldianthe_bifurca,5,0.1
 Taraxacum_officinale,6,1
-Piptatherum_gracile_(g),,5
+Piptatherum_gracile_(g),5
 Heracleum_pinnatum,4,1

@@ -1,5 +1,5 @@
-Species_name,#individuals,Cover_(%)
-Salix_caeisa,2,8
+Species,individuals_freq,Cover_percentage
+Salix_caesia,2,8
 Leontopodium_brachyactis,10,6
 Bistorta_vivipara,12,10
 Equisetum_ramosissimum,5,7

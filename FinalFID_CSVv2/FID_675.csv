@@ -1,11 +1,5 @@
-Locality,Before_Rangdum,
-Date,18.08.2024,
-Habitat,Herbaceous,
-Elevation,3995,
-Latitude,34.04486667,
-Longitude,76.2371,
-Species,#individuals,%Cover
-Aconogonum_tortuosum,25,20
+Species,individuals_freq,Cover_percentage
+Aconogonon_tortuosum,25,20
 Bistorta_affinis,20,10
 Artemisia_brevifolia,10,5
 Arnebia_euchroma,8,3

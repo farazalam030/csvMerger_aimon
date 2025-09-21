@@ -1,8 +1,8 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Nepeta_glutinosa,2,20
 Rosa_webbiana,2,10
 Epilobium_angustifolium,10,5
-Hercaleum_pinnatum,8,4
+Heracleum_pinnatum,8,4
 Scrophularia_koelzii,3,3
 Artemisia_santolinifolia,6,4
 Scorzonera_virgata,5,3

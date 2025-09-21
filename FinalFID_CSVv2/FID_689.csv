@@ -1,10 +1,4 @@
-Locality,Shargole_Cave_monastery,
-Date,16.08.2024,
-Habitat,Scrub_steppe_(Gravelly_gentle_slope),
-Elevation,3257,
-Latitude,34.3931,
-Longitude,76.29833333,
-Species,#individuals,%Cover
+Species,individuals_freq,Cover_percentage
 Morina_coulteriana,10,5
 Stachys_tibetica,8,4
 Rosa_webbiana,2,5
@@ -12,11 +6,11 @@ Euphorbia_tibetica,2,1
 Hippophae_rhamnoides,6,7
 Nepeta_floccosa,2,1
 Dianthus_anatolicus,1,0.1
-Acontholimon_lycopodiodes,1,1
+Acontholimon_lycopodioides,1,1
 Artemisia_salsoloides,5,3
 Artemisia_brevifolia,8,6
 Rhamnus_prostrata,1,2
 Oxytropis_tatarica,1,1
 Gypsophila_sedifolia,1,1
 Minuartia_foliosa,2,1
-Campanula_pallida_var._tibetica,3,1
+Campanula_pallida_var_tibetica,3,1

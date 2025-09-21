@@ -1,4 +1,4 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Taraxacum_officinale,35,7
 Dactylorhiza_hatagirea,50,10
 Gentiana_leucomelaena,80,12

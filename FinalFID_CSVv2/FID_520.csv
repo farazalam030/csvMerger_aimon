@@ -1,12 +1,12 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Cousinia_thomsonii,5,7
-Astrgalus_oplites,28,30
-Nepeta__discolor,20,10
+Astragalus_oplites,28,30
+Nepeta_discolor,20,10
 Polygonum_paronychioides,10,10
 Lindelofia_stylosa,17,20
 Polygonum_rottboellioides,2,2
 Silene_rechingeri,35,10
 Verbascum_thapsus,2,2
-Elymus_sp._(g),40,20
+Elymus_sp_(g),40,20
 Scorzonera_virgata,5,5
 Eritrichium_spathulatum,3,1

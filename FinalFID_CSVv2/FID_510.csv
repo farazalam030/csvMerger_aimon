@@ -1,4 +1,4 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Artemisia_kargilensis,3,1
 Lonicera_spinosa,3,4
 Astragalus_oplites,4,1
@@ -14,7 +14,7 @@ Heracleum_pinnatum,5,4
 Medicago_varia,7,4
 Geranium_regelii,5,2
 Potentilla_multifida,5,2
-Astragalus_thomsonii_,10,4
+Astragalus_thomsonii,10,4
 Nepeta_discolor,8,4
 Silene_rechingeri,12,3
 Pedicularis_bicornuta,10,3

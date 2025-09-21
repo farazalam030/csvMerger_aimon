@@ -1,13 +1,7 @@
-Locality,Rangdum,
-Date,20.08.2024,
-Habitat,Riverine_Scrub,
-Elevation,4027,
-Latitude,34.00898333,
-Longitude,76.37556667,
-Species,#individuals,%Cover
+Species,individuals_freq,Cover_percentage
 Hippophae_tibetana,20,35
 Myricaria_germanica,15,20
-Aconogonum_tortuosum,3,2
+Aconogonon_tortuosum,3,2
 Potentilla_multifida,20,5
 Scrophularia_dentata,4,1
 Oxytropis_tatarica,2,0.5

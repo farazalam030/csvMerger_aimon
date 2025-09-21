@@ -1,15 +1,9 @@
-Locality,Before_Tongul,
-Date,18.08.2024,
-Habitat,Herbaceous,
-Elevation,3408,
-Latitude,34.0619,
-Longitude,75.92543333,
-Species,#individuals,%Cover
-Potentilla_atrosanguinea_var._argyrophylla,10,3
+Species,individuals_freq,Cover_percentage
+Potentilla_atrosanguinea_var_argyrophylla,10,3
 Potentilla_multifida,8,2
 Lonicera_microphylla,1,4
 Iris_hookeriana,18,10
-Atragalus_strictus,25,10
+Astragalus_strictus,25,10
 Taraxacum_officinale,5,2
 Gentiana_tianschanica,4,2
 Astragalus_rhizanthus,6,3
@@ -20,7 +14,7 @@ Sibbaldia_cuneata,15,4
 Cousinia_thomsonii,1,1
 Leymus_secalinus_(g),8,2
 Nepeta_discolor,13,3
-Kobresia_royleana,30,15
+Kobresia_royleana_(s),30,15
 Codonopsis_clematidea,2,2
 Artemisia_brevifolia,1,0.1
 Aster_flaccidus,3,0.5

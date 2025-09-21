@@ -1,4 +1,4 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Thalictrum_foetidum,15,12
 Allium_carolinianum,12,12
 Bistorta_affinis,2,4
@@ -10,7 +10,7 @@ Androsace_robusta,7,5
 Aster_flaccidus,5,4
 Pedicularis_bicornuta,2,2
 Thymus_linearis,15,7
-Potentiila_saundersiana_,9,7
+Potentiila_saundersiana,9,7
 Scorzonera_virgata,5,3
 Rheum_webbianum,3,2
 Arnebia_euchroma,12,15

@@ -1,5 +1,5 @@
-Species_name,#individuals,Cover_(%)
-Psychrogeton_andryaloides_var.poncinsii,10,8
+Species,individuals_freq,Cover_percentage
+Psychrogeton_andryaloides_var_poncinsii,10,8
 Bistorta_affinis,7,12
 Nepeta_discolor,6,3
 Oxytropis_tatarica,5,3

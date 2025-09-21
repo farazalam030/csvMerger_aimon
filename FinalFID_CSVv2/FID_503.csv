@@ -1,4 +1,4 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Leontopodium_himalayanum,10,7
 Rheum_webbianum,10,15
 Potentilla_sojakii,6,12
@@ -9,11 +9,11 @@ Kobresia_schoenoides_(s),15,10
 Rhodiola_heterodonta,3,5
 Stipa_purpurea_(g),50,40
 Astragalus_oplites,1,5
-Bistorta_afffinis,10,40
+Bistorta_affinis,10,40
 Cicer_microphyllum,5,35
 Polygonum_cognatum,5,5
 Myosotis_asiatica,5,1
 Dontostemon_glandulosus,2,1
 Rosularia_alpestris,1,1
-Ajania_tibetica_(Tanacetum_tibeticum),3,5
+Tanacetum_tibeticum,3,5
 Delphinium_cashmerianum,5,5

@@ -1,10 +1,4 @@
-Locality,Purtikchey,
-Date,18.08.2024,
-Habitat,Hay_meadow,
-Elevation,3183,
-Latitude,34.20501667,
-Longitude,75.92963333,
-Species,#individuals,%Cover
+Species,individuals_freq,Cover_percentage
 Podophyllum_hexandrum,12,10
 Heracleum_pinnatum,7,3
 Aconitum_heterophyllum,8,2
@@ -22,6 +16,6 @@ Galium_boreale,20,9
 Lotus_corniculatus,6,1
 Astragalus_melanostachys,5,1
 Nepeta_podostachys,4,1
-Agrostis_gigantea_(g),,8
-Bromus_pectinatus_(g),,30
+Agrostis_gigantea_(g),8
+Bromus_pectinatus_(g),30
 Medicago_lupulina,7,5

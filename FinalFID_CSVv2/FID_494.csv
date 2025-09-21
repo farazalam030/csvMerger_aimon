@@ -1,5 +1,5 @@
-Species_name,#individuals,Cover_(%)
-Ribes_himalense_var._verruculosum,1,2
+Species,individuals_freq,Cover_percentage
+Ribes_himalense_var_verruculosum,1,2
 Nepeta_glutinosa,22,12
 Rubia_tinctorum,3,1
 Brachyactis_roylei,2,1

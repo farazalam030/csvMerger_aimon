@@ -1,6 +1,6 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Artemisia_salsoloides,2,8
-Aconogonon_totruosum,5,8
+Aconogonon_tortuosum,5,8
 Lonicera_asperifolia,2,6
 Nepeta_discolor,4,4
 Aquilegia_moorcroftiana,3,5

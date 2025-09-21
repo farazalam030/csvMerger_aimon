@@ -1,4 +1,4 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Delphinium_cashmerianum,2,1
 Rheum_webbianum,5,5
 Puccinellia_distans,8,4
@@ -7,7 +7,7 @@ Euphorbia_thomsoniana,5,8
 Artemisia_brevifolia,5,5
 Polygonum_rottboellioides,3,1
 Nepeta_discolor,5,2
-Acontholimon_lycopodiodes,1,5
+Acontholimon_lycopodioides,1,5
 Psychrogeton_andryaloides,3,1
 Dianthus_anatolicus,6,2
 Cicer_microphyllum,2,5

@@ -1,7 +1,7 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Krascheninnikovia_ceratoides,5,5
 Ephedra_geradiana,20,35
 Ribes_orientale,3,5
-Astragalus_sp.,4,1
+Astragalus_sp,4,1
 Lonicera_microphylla,3,12
 Rhamnus_prostrata,2,5

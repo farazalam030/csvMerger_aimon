@@ -1,4 +1,4 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Artemisia_brevifolia,10,20
 Oxytropis_glabra,1,1
 Ephedra_geradiana,10,10

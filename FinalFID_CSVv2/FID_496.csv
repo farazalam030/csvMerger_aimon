@@ -1,9 +1,8 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Astragalus_oplites,25,50
 Polygonum_paronychioides,10,15
-Scorzonera_viragata,5,3
+Scorzonera_virgata,5,3
 Lindelofia_stylosa,1,5
 Carex_stenocarpa_(s),30,20
 Polygonum_biaristatum,1,1
-Elymus_sp._(g),5,1
-
+Elymus_sp_(g),5,1

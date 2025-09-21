@@ -1,5 +1,5 @@
 ###################### CLEANED#FID_642.csv ######################
-                     Species  #individuals  Cover_(%)
+                     Species  individuals_freq  Cover_percentage
 0           Arnebia_euchroma           4.0          5
 1         Aconogon_tortuosum           1.0          2
 2          Ephedra_geradiana           7.0          8
@@ -15,7 +15,7 @@
 12        Lindelofia_stylosa           3.0          4
 13  Elymus_canaliculatus_(g)           5.0          5
 ###################### CLEANED#FID_643.csv ######################
-                     Species  #individuals  Cover_(%)
+                     Species  individuals_freq  Cover_percentage
 0        Caragana_versicolor             8         15
 1           Nepeta_glutinosa             2          4
 2  Psychrogeton_andryaloides             4          4
@@ -24,7 +24,7 @@
 5       Potentilla_multifida             5          5
 6          Atragalus_oplites             5          6
 ###################### CLEANED#FID_648.csv ######################
-                      Species  #individuals  Cover_(%)
+                      Species  individuals_freq  Cover_percentage
 0     Delphinium_cashmerianum           2.0          1
 1             Rheum_webbianum           5.0          5
 2         Puccinellia_distans           4.0          4

@@ -1,14 +1,8 @@
-Locality,Opp._Wakha,
-Date,16.08.2024,
-Habitat,Desert_steppe,
-Elevation,3570,
-Latitude,34.3805,
-Longitude,76.42376667,
-Species,#individuals,%Cover
+Species,individuals_freq,Cover_percentage
 Corydalis_flabellata,11,6
 Lactuca_orientalis,1,1
 Artemisia_brevifolia,10,5
-Stipa_himalaica,2,0.5
+Stipa_himalaica_(g),2,0.5
 Scophularia_koelzii,1,0.1
 Haloxylon_thomsonii,4,0.5
 Stachys_tibetica,1,1

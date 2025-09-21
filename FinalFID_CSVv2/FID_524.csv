@@ -1,4 +1,4 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Koenigia_rumicifolia,4,6
 Potentilla_sojakii,30,15
 Thesium_hookeri,3,3
@@ -21,4 +21,4 @@ Aconitum_rotundifolium,5,3
 Aster_flaccidus,15,5
 Geranium_himalayense,10,4
 Saussurea_gnaphlodes,2,2
-Draba_sp.,5,2
+Draba_sp,5,2

@@ -1,9 +1,9 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Artemisia_dracunculus,9,4
 unid_634,10,5
 Nepeta_floccosa,2,1
 Askellia_flexuosa,8,5
-Krascheninnikovia_ceratoides�,3,4
+Krascheninnikovia_ceratoides,3,4
 Astragalus_oplites,1,1
 Oxytropis_microphylla,1,2
 Christolea_crassifolia,6,4

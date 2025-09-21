@@ -1,4 +1,4 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Delphinium_cashmerianum,6,4
 Pedicularis_bicornuta,6,5
 Nepeta_discolor,8,4
@@ -9,13 +9,13 @@ Oxytropis_hypoglottoides,9,6
 Medicago_varia,5,5
 Medicago_falcata,30,25
 Circium_arvense,10,7
-Potentilla_mutlifida,10,7
+Potentilla_multifida,10,7
 Sibbaldianthe_bifurca,16,7
 Rumex_patientia,7,6
 Dianthus_anatolicus,10,7
 Lindelofia_stylosa,15,10
 Polygonum_polycnemoides,6,3
-Jacobaea_nudicaulis�,5,4
+Jacobaea_nudicaulis,5,4
 Pleurospermum_candollei,8,7
 Conioselinum_vaginatum,5,5
 Inula_koelzii,2,3

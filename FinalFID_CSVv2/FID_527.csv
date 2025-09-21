@@ -1,4 +1,4 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Lonicera_asperifolia,3,15
 Hippophae_tibetana,11,30
 Cicer_microphyllum,2,7
@@ -17,7 +17,5 @@ Salix_caesia,1,25
 Pedicularis_bicornuta,1,2
 Oxytropis_humifusa,4,2
 Leontopodium_ochroleucum,6,2
-Euphrasia_species,3,1
+Euphrasia_sp,3,1
 Psychrogeton_andryaloides,8,4
-
-

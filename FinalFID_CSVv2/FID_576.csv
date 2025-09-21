@@ -1,4 +1,4 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Lonicera_asperifolia,1,8
 Salix_pycnostachya,5,10
 Rosa_webbiana,5,15

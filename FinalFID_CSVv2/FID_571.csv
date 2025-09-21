@@ -1,4 +1,4 @@
-Species_name,#individuals,Cover_(%)
+Species,individuals_freq,Cover_percentage
 Ephedra_geradiana,20,40
 Lindelofia_stylosa,2,2
 Astragalus_oplites,5,4
@@ -6,7 +6,7 @@ Oxytropis_glabra,2,4
 Elymus_repens_(g),5,3
 Scorzonera_virgata,2,1
 Scrophularia_koelzii,1,2
-Elymus_dahuricus,7,4
+Elymus_dahuricus_(g),7,4
 Lonicera_asperifolia,1,15
 Heracleum_pinnatum,1,2
 Haloxylon_thomsonii,1,1

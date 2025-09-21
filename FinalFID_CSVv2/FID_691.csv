@@ -1,10 +1,4 @@
-Locality,Aryan_valley,
-Date,17.08.2024,
-Habitat,Scrub_steppe,"_But_very_sparse_shrub,_looks_like_desert_steppe."
-Elevation,3679,
-Latitude,34.58136667,
-Longitude,76.23571667,
-Species,#individuals,%Cover
+Species,individuals_freq,Cover_percentage
 Tanacetum_fruticulosum,2,2
 Oxytropis_tatarica,1,0.1
 Matthiola_chorassanica,7,4
