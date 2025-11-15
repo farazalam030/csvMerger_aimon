@@ -1,14 +1,8 @@
-Locality,"Drass, Somat",,,
-Date,27.07.2022,,,
-Habitat,Riverine scrub/Sandy riverbed,,,
-Elevation,2890,,,
-Latitude,34.4395,,,
-Longitude,75.9126,,,
-Species,#individuals,%Cover,FID,246_23
-Cotoneaster affinis,8,10,341,
-Myricaria germanica,6,10,428,
-Lonicera asperifolia,2,2,427,
-Artemisia brevifolia,7,5,429,
-Rhamnus postrata,6,8,430,
-Saussurea jacea,5,3,,
-Bothriochloa ischaemum,10,2,,
+Species,individuals
+Cotoneaster_affinis,8
+Myricaria_germanica,6
+Lonicera_asperifolia,2
+Artemisia_brevifolia,7
+Rhamnus_postrata,6
+Saussurea_jacea,5
+Bothriochloa_ischaemum,10

@@ -1,14 +1,8 @@
-Locality,Ahead of Sankoo (Suru Valley),,252_32
-Date,08.09.2021,,
-Habitat,Desert  steppe (Scree slope),,
-Elevation,3005,,
-Latitude,34.257557,,
-Longitude,75.970828,,
-Species,#individuals,%Cover,FID
-Ephedra intermedia,20,10,129
-Nepeta leucolaena,25,8,292
-Lactuca orientalis,5,1,293
-Artemisia brevifolia,40,15,295
-Piptatherum gracile,25,5,297
-Artemisia stricta,3,1,
-Colutea nepalensis,2,0.5,
+Species,individuals
+Ephedra_intermedia,20
+Nepeta_leucolaena,25
+Lactuca_orientalis,5
+Artemisia_brevifolia,40
+Piptatherum_gracile,25
+Artemisia_stricta,3
+Colutea_nepalensis,2

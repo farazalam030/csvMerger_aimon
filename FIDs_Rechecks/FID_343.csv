@@ -1,11 +1,5 @@
-Locality,Umba,,,
-Date,6.08.2022,,,
-Habitat,Moist meadow/Spring,,,
-Elevation,3523,,,
-Latitude,34.328164,,,
-Longitude,75.880991,,,
-Species,#individuals,%Cover,FID,256_40_H2
-Swertia petiolata,14,5,343,
-Mentha royleana,18,8,,
-Gentianella moorcroftiana,8,4,,
-Carex pseudofoetida,50,75,,
+Species,individuals
+Swertia_petiolata,14
+Mentha_royleana,18
+Gentianella_moorcroftiana,8
+Carex_pseudofoetida,50

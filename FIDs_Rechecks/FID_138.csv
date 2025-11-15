@@ -1,11 +1,5 @@
-Locality,Hanuthang,,
-Date,29.09.2021,,
-Habitat,Desert steppe (Disturbed habitat),,
-Elevation,2818,,
-Latitude,34.547648,,
-Longitude,76.611643,,
-Species,#individuals,%Cover,FID
-Haloxylon thomsonii,8,5,138
-Capparis spinosa,10,6,150
-Phragmites australis,25,10,274
-Cirsium arvense,15,5,285
+Species,individuals
+Haloxylon_thomsonii,8
+Capparis_spinosa,10
+Phragmites_australis,25
+Cirsium_arvense,15

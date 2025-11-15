@@ -1,19 +1,13 @@
-Locality,"Sapi, Kargil",,
-Date,30.07.2022,,
-Habitat,Scree/ Desert steppe,,
-Elevation,3886,,
-Latitude,34.3816,,
-Longitude,76.2184,,
-Species,#individuals,%Cover,FID
-Acantholimon lycopodioides,45,20,307
-Cousinia thomsonii,30,12,386
-Aconogonon tortuosum,17,10,390
-Minuartia foliosa,5,2,388
-Elymus jacquemontii,10,2,
-Kobresia royleana,15,4,
-Scorzonera virgata,4,1,
-Oxyropis tatarica,5,2,
-Elymus cognatus,5,2,
-Cirsium arvense,6,2,
-Polygonum molliiforme,5,1,
-Sibbaldianthe bifurca,3,0.5,
+Species,individuals
+Acantholimon_lycopodioides,45
+Cousinia_thomsonii,30
+Aconogonon_tortuosum,17
+Minuartia_foliosa,5
+Elymus_jacquemontii,10
+Kobresia_royleana,15
+Scorzonera_virgata,4
+Oxyropis_tatarica,5
+Elymus_cognatus,5
+Cirsium_arvense,6
+Polygonum_molliiforme,5
+Sibbaldianthe_bifurca,3

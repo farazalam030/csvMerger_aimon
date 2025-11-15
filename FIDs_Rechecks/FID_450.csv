@@ -1,31 +1,25 @@
-Locality,"Sapi, Kargil",,,
-Date,11.08.2022,,,
-Habitat,Scrub steppe,,,
-Elevation,3800,,,
-Latitude,34.3589,,,
-Longitude,76.1396,,,
-Species,#individuals,%Cover,FID,154_5_H1
-Artemisia salsoloides,12,5,450,
-Acantholimon lycopodioides,6,5,451,
-Cotoneaster affinis,1,4,467,
-Aconogonon tortuosum,10,6,466,
-Arnebia euchroma,6,5,379,
-Thalictrum foetidum,2,1,,
-Bistorta affinis,5,5,,
-Rheum webbianum,6,3,,
-Ephedra intermedia,9,5,,
-Rosa webbiana,4,8,,
-Minuartia foliosa,5,1,,
-Lonicera asperifolia,1,2,,
-Potentilla saundersiana,6,1,,
-Astragalus strictus,3,0.5,,
-Elymus jacquemontii (g),25,12,,
-Taraxacum officinale,2,0.5,,
-Sibbaldianthe bifurca,4,0.5,,
-Silene moorcroftiana,20,5,,
-Decalepidanthus echioides,5,1,,
-Hippolytia senecionis,1,1,,
-Poa attenuata (g),45,10,,
-Androsace robusta,5,2,,
-Elymus dahuricus (g),15,8,,
-Geranium regelii,3,0.5,,
+Species,individuals
+Artemisia_salsoloides,12
+Acantholimon_lycopodioides,6
+Cotoneaster_affinis,1
+Aconogonon_tortuosum,10
+Arnebia_euchroma,6
+Thalictrum_foetidum,2
+Bistorta_affinis,5
+Rheum_webbianum,6
+Ephedra_intermedia,9
+Rosa_webbiana,4
+Minuartia_foliosa,5
+Lonicera_asperifolia,1
+Potentilla_saundersiana,6
+Astragalus_strictus,3
+Elymus_jacquemontii_(g),25
+Taraxacum_officinale,2
+Sibbaldianthe_bifurca,4
+Silene_moorcroftiana,20
+Decalepidanthus_echioides,5
+Hippolytia_senecionis,1
+Poa_attenuata_(g),45
+Androsace_robusta,5
+Elymus_dahuricus_(g),15
+Geranium_regelii,3

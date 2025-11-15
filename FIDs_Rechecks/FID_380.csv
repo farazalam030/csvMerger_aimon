@@ -1,30 +1,24 @@
-Locality,"Saleskot, Suru Valley",,,
-Date,19.07.2022,,,
-Habitat,Hay meadow,,,
-Elevation,3003,,,
-Latitude,34.3687,,,
-Longitude,75.9831,,,
-Species,#individuals,%Cover,FID,236_16
-Ribes orientale,3,2,380,
-Heracleum pinnatum,8,2,381,
-Epilobium angustifolium,25,15,382,
-Stachys tibetica,2,0.5,383,
-Silene vulgaris,31,2,385,
-Medicago falcata,115,30,,
-Agrostis gigantea (g),80,15,,
-Verbascum thapsus,2,0.5,,
-Artemisia sieversiana,12,1,,
-Melanoseris violifolia,26,5,,
-Thymus linearis,10,1,,
-Astragalus rhizanthus,3,0.5,,
-Tanacetum gracile,2,0.5,,
-Artemisia scoparia,8,1,,
-Hordeum sp.,18,3,,
-Astragalus cf. alpinus,7,1,,
-Galium boreale,12,5,,
-Fagopyrum tataricum,3,0.1,,
-Erigeron annus,2,0.1,,
-Neobrachyactis pubescens,4,0.5,,
-Jurinea ceratocarpa,3,0.1,,
-Convolvulus arvensis ,1,0.1,,
-Rosa webbiana,2,5,,
+Species,individuals
+Ribes_orientale,3
+Heracleum_pinnatum,8
+Epilobium_angustifolium,25
+Stachys_tibetica,2
+Silene_vulgaris,31
+Medicago_falcata,115
+Agrostis_gigantea_(g),80
+Verbascum_thapsus,2
+Artemisia_sieversiana,12
+Melanoseris_violifolia,26
+Thymus_linearis,10
+Astragalus_rhizanthus,3
+Tanacetum_gracile,2
+Artemisia_scoparia,8
+Hordeum_sp,18
+Astragalus_cf_alpinus,7
+Galium_boreale,12
+Fagopyrum_tataricum,3
+Erigeron_annus,2
+Neobrachyactis_pubescens,4
+Jurinea_ceratocarpa,3
+Convolvulus_arvensis,1
+Rosa_webbiana,2

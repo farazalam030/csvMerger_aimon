@@ -1,14 +1,8 @@
-Locality,"Kaksar, Kargil",,237_50
-Date,09.09.2021,,
-Habitat,Scrub steppe,,
-Elevation,2812,,
-Latitude,34.569636,,
-Longitude,75.986941,,
-Species,#individuals,%Cover,FID
-Rosa webbiana ,5,8,280
-Cotoneaster affinis,10,15,282
-Piptatherum laterale,20,10,133
-Juniperus semiglobosa,2,2,136
-Polygonum paronychioides,6,0.1,137
-Artemisia brevifolia,40,25,
-Rosa webbiana,5,3,
+Species,individuals
+Rosa_webbiana,5
+Cotoneaster_affinis,10
+Piptatherum_laterale,20
+Juniperus_semiglobosa,2
+Polygonum_paronychioides,6
+Artemisia_brevifolia,40
+Rosa_webbiana,5

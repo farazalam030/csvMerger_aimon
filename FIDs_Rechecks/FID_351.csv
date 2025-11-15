@@ -1,17 +1,11 @@
-Locality,"Before PensiLa, Zanskar",,
-Date,Steppe/Moraine,,
-Habitat,22.09.2022,,
-Elevation,3860,,
-Latitude,33.7267,,
-Longitude,76.4975,,
-Species,#individuals,%Cover,FID
-Artemisia dracunculus,22,12,351
-Lindeliofia stylosa,15,7,354
-Myricaria germanica,15,15,352
-Ephedra geradiana,25,15,353
-Lonicera asperifolia,1,3,349
-Aconogonon tortuosum,35,20,
-Lonicera microphylla,1,3,
-Thymus linearis,10,1,
-Astragalus rhizanthus,14,3,
-Polygonum cognatum,6,0.5,
+Species,individuals
+Artemisia_dracunculus,22
+Lindeliofia_stylosa,15
+Myricaria_germanica,15
+Ephedra_geradiana,25
+Lonicera_asperifolia,1
+Aconogonon_tortuosum,35
+Lonicera_microphylla,1
+Thymus_linearis,10
+Astragalus_rhizanthus,14
+Polygonum_cognatum,6

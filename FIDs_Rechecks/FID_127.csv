@@ -1,17 +1,11 @@
-Locality,Zanskar,,
-Date,24.08.2021,,
-Habitat,Desert steppe,,
-Elevation,3865,,
-Latitude,33.462565,,
-Longitude,76.848341,,
-Species,#individuals,%Cover,FID
-Astragalus rhizanthus,19,10,158
-Scorzonera virgata,12,6,159
-Piptatherum gracile,50,20,128
-Thymus linearis,15,7,127
-Silene moorcroftiana,8,5,248
-Arnebia euchroma,1,0.1,
-Psychrogeton andryaloides,5,2,
-Elymus cognatus,30,15,
-Poa sterilis,20,5,
-Astragalus oplites,7,2,
+Species,individuals
+Astragalus_rhizanthus,19
+Scorzonera_virgata,12
+Piptatherum_gracile,50
+Thymus_linearis,15
+Silene_moorcroftiana,8
+Arnebia_euchroma,1
+Psychrogeton_andryaloides,5
+Elymus_cognatus,30
+Poa_sterilis,20
+Astragalus_oplites,7

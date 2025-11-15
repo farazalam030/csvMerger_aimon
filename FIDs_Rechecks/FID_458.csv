@@ -1,19 +1,13 @@
-Locality,"Sapi, Kargil",,,
-Date,11.08.2022,,,
-Habitat,Desert steppe,,,
-Elevation,4192,,,
-Latitude,34.3785,,,
-Longitude,76.1867,,,
-Species,#individuals,%Cover,FID,154_5_H2
-Acantholimon lycopodioides,20,10,458,
-Aconogonon tortuosum,30,20,312,
-Cousinia thomsonii,25,15,464,
-Geranium regelii,5,1,463,
-Rheum tibeticum,6,2,465,
-Astragalus oplites,5,2,,
-Nepeta podostachys,5,2,,
-Carex stenophylla,10,5,,
-Elymus canaliculatus,14,8,,
-Polygonum paronychioides,7,2,,
-Oxytropis microphylla,2,0.1,,
-Pedicularis sp.,,,,
+Species,individuals
+Acantholimon_lycopodioides,20
+Aconogonon_tortuosum,30
+Cousinia_thomsonii,25
+Geranium_regelii,5
+Rheum_tibeticum,6
+Astragalus_oplites,5
+Nepeta_podostachys,5
+Carex_stenophylla,10
+Elymus_canaliculatus,14
+Polygonum_paronychioides,7
+Oxytropis_microphylla,2
+Pedicularis_sp,3

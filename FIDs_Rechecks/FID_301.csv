@@ -1,12 +1,6 @@
-Locality,"Chulichan, Kargil",,,
-Date,08.08.2022,,,
-Habitat,Scrub steppe/coarse gravelly soil,,,
-Elevation,2816,,,
-Latitude,34.6616,,,
-Longitude,76.3108,,,
-Species,#individuals,%Cover,FID,137_62
-Juniperus semiglobosa ,2,8,301,
-Ribes orientale,15,20,302,
-Capparis  spinosa,3,1,303,
-Tanacetum gracile,6,2,378,
-Ephedra intermedia,5,12,384,
+Species,individuals
+Juniperus_semiglobosa,2
+Ribes_orientale,15
+Capparis__spinosa,3
+Tanacetum_gracile,6
+Ephedra_intermedia,5

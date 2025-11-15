@@ -1,23 +1,17 @@
-Locality,"Karpo Khar, Suru",,,
-Date,20.07.2022,,,
-Habitat,Stony steppe/ Stabilized slope,,,
-Elevation,3181,,,
-Latitude,34.2148,,,
-Longitude,75.9606,,,
-Species,#individuals,%Cover,FID,242_27_H2
-Thymus linearis,35,7,333,
-Astragalus rhizanthus,9,2,424,
-Tanacetum gracile,14,6,425,
-Artemisia salsoloides,25,16,436,
-Psychrogeton adryaloides,7,1,437,
-Nepata leucolaena,16,7,,
-Rosa webbiana,3,5,,
-Euphorbia tibetica,11,1,,
-Lindelofia stylosa,6,3,,
-Aconogonum tortuosum,3,1,,
-Piptatherum laterale,18,6,,
-Polygonum paronychioides,8,2,,
-Scorzonera virgata,10,2,,
-Carex stenophylla (s),13,5,,
-Dianthus anatolicus,12,1,,
-Artemisia scorparia,15,5,,
+Species,individuals
+Thymus_linearis,35
+Astragalus_rhizanthus,9
+Tanacetum_gracile,14
+Artemisia_salsoloides,25
+Psychrogeton_adryaloides,7
+Nepata_leucolaena,16
+Rosa_webbiana,3
+Euphorbia_tibetica,11
+Lindelofia_stylosa,6
+Aconogonum_tortuosum,3
+Piptatherum_laterale,18
+Polygonum_paronychioides,8
+Scorzonera_virgata,10
+Carex_stenophylla_(s),13
+Dianthus_anatolicus,12
+Artemisia_scorparia,15

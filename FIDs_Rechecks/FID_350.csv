@@ -1,20 +1,14 @@
-Locality,"Umba, Suru",,,
-Date,6.08.2022,,,
-Habitat,Stable scree/Steppe with some shrubs,,,
-Elevation,3579,,,
-Latitude,34.3295,,,
-Longitude,75.8828,,,
-Species,#individuals,%Cover,FID,256_40_H1
-Euphorbia thomsoniana,20,10,350,
-Heracleum pinnatum,4,1,355,
-Eritrichium canum,13,4,362,
-Silene moorcroftiana,25,8,363,
-Polygonum paronychioides,9,1,364,
-Astragalus oplites,3,1,,
-Aconogonum tortuosum,15,7,,
-Rosa webbiana,2,5,,
-Piptatherum laterale,10,2,,
-Senecio chrysanthemoides,5,2,,
-Cicer microphyllum,5,3,,
-Elymus cognatus,7,1,,
-Melica persica,2,0.5,,
+Species,individuals
+Euphorbia_thomsoniana,20
+Heracleum_pinnatum,4
+Eritrichium_canum,13
+Silene_moorcroftiana,25
+Polygonum_paronychioides,9
+Astragalus_oplites,3
+Aconogonum_tortuosum,15
+Rosa_webbiana,2
+Piptatherum_laterale,10
+Senecio_chrysanthemoides,5
+Cicer_microphyllum,5
+Elymus_cognatus,7
+Melica_persica,2

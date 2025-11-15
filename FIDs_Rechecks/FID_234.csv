@@ -1,12 +1,4 @@
-Locality,"Choskore, Kargil",236_12_H2,
-Date,11.09.2021,,
-Habitat,Desert steppe (sandy slope with stones/loose scree),,
-Elevation,3592,,
-Latitude,34.475984,,
-Longitude,76.131124,,
-Species,#individuals,%Cover,FID
-Aconogonon tortuosum,50,20,234
-Acantholimon lycopodioides,25,5,271
-Cousinia thomsonii ,5,1,270
-,,,275
-,,,276
+Species,individuals
+Aconogonon_tortuosum,50
+Acantholimon_lycopodioides,25
+Cousinia_thomsonii,5

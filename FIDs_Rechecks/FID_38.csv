@@ -1,11 +1,5 @@
-Locality,"Shargole, Kargil",,
-Date,18.10.2020,,
-Habitat,Riverine scrub,,
-Elevation,3143,,
-Latitude,34.396217,,
-Longitude,76.306841,,
-Species,#individuals,%Cover,FID
-Salix sericocarpa,5,8,38
-Myricaria elegans,15,20,41
-Clematis orientalis,10,10,42
-Hippophae rhamnoides,15,25,43
+Species,individuals
+Salix_sericocarpa,5
+Myricaria_elegans,15
+Clematis_orientalis,10
+Hippophae_rhamnoides,15

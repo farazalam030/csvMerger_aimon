@@ -1,18 +1,11 @@
-Locality,Hambuting La,,
-Date,10.09.2021,,
-Habitat,Desert steppe,,
-Landform,Colluvial stony slope,,
-Elevation,4035,,
-Latitude,34.5856054,,
-Longitude,76.2751171,,
-Species,#individuals,%Cover,FID
-Acantholimon lycopodioides ,30,20,146
-Cicer microphylum,8,4,204
-Kobresia sp,12,3,205
-Cousinia thomsonii,15,9,207
-Artemisia brevifolia,2,1,298
-Minuartia foliosa,17,8,
-Astragalus rhizanthus,3,1,
-Lactuca orientails,4,1,
-Elymus canaliculatus,15,4,
-Polygonum paronychioides,5,1,
+Species,individuals
+Acantholimon_lycopodioides,30
+Cicer_microphylum,8
+Kobresia_sp,12
+Cousinia_thomsonii,15
+Artemisia_brevifolia,2
+Minuartia_foliosa,17
+Astragalus_rhizanthus,3
+Lactuca_orientails,4
+Elymus_canaliculatus,15
+Polygonum_paronychioides,5

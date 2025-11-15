@@ -1,16 +1,8 @@
-Locality,Sapi Lake,,
-Date,16.09.2020,,
-Habitat,Stony river bed,,
-Elevation,4419,,
-Latitude,34.35251,,
-Longitude,76.074268,,
-Species,#individuals,%Cover,FID
-Epilobium latifolium,20,10,15
-Rhodiola fastigiata,30,15,16
-Stipa himalaica,30,15,17
-Anaphalis nubigena,15,7,18
-Delphinium brunonianum,15,8,19
-Carex stenocarpa,25,15,
-Bistorta affinis,20,12,
-,,,
-,,,
+Species,individuals
+Epilobium_latifolium,20
+Rhodiola_fastigiata,30
+Stipa_himalaica,30
+Anaphalis_nubigena,15
+Delphinium_brunonianum,15
+Carex_stenocarpa,25
+Bistorta_affinis,20

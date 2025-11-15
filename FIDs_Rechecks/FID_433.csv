@@ -1,19 +1,13 @@
-Locality,"Kartse khar, Sankoo",,,
-Date,18.07.2022,,,
-Habitat,Dry Desert steppe,,,
-Elevation,3070,,,
-Latitude,34.2682,,,
-Longitude,75.9911,,,
-Species,#individuals,%Cover,FID,234_1_H2
-Artemisia brevifolia,50,35,433,
-Heracleum pinnatum,10,5,441,
-Minuartia foliosa,6,1,434,
-Matthiola chorassanica,8,2,331,
-Lactuca orientalis,8,2,443,
-Ephedra intermedia ,6,4,444,
-Polygonum paronychioides ,5,1,332,
-Thymus linearis,12,3,435,
-Stipa himalaica  ,15,5,442,
-Scrophularia koelzii,7,2,,
-Trigonella gracilis,5,1,,
-Orobanche cernua,1,0.5,,
+Species,individuals
+Artemisia_brevifolia,50
+Heracleum_pinnatum,10
+Minuartia_foliosa,6
+Matthiola_chorassanica,8
+Lactuca_orientalis,8
+Ephedra_intermedia,6
+Polygonum_paronychioides,5
+Thymus_linearis,12
+Stipa_himalaica_,15
+Scrophularia_koelzii,7
+Trigonella_gracilis,5
+Orobanche_cernua,1

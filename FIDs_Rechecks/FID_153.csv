@@ -1,12 +1,5 @@
-Locality,"Zanskar, Kargil",,
-Date,25.08.2021,,
-Habitat,Desert steppe (stabilized slope),,
-Elevation,3568,,
-Latitude,33.508176,,
-Longitude,76.951262,,
-Species,#individuals,%Cover,FID
-Artemisia minor ,30,,151
-Allium oreoprasum,10,,152
-Astragalus oplites,35,,153
-Crepidiastrum tenuifolium,20,,154
-,,,155
+Species,individuals
+Artemisia_minor,30
+Allium_oreoprasum,10
+Astragalus_oplites,35
+Crepidiastrum_tenuifolium,20

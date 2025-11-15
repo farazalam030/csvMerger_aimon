@@ -1,30 +1,24 @@
-Locality,Drass,,
-Date,21.09.2020,,
-Habitat,Moist meadow (Spring area),,
-Elevation,3088,,
-Latitude,34.41052,,
-Longitude,75.658975,,
-Species,#individuals,%Cover,FID
-Mentha longifolia ,20,10,23
-Gentianella moorcroftiana,20,8,24
-Swertia petiolata,10,7,25
-Artemisia brevifolia,12,8,27
-Euphrasia officinalis,10,6,289
-Hypericum perforatum,7,8,290
-Verbascum thapsus,1,0.5,291
-Rumex nepalensis,2,1,294
-Trifolium pratense,15,6,296
-Equisetum arvense,5,6,
-Epilobium chitralense,3,5,
-Pedicularis punctata,6,3,
-Arabidopsis thaliana,1,1,
-Plantago depressa,3,1,
-Kobresia karakorumensis,15,12,
-Taraxacum officinale,10,4,
-Euphrasia schlagintweitii,12,5,
-Plantago himalaica,5,3,
-Leontopodium himalayanum,4,3,
-Carum carvi,5,5,
-Ranunculus distans,3,2,
-Ferula jaeschkeana,15,15,
-Viola kunawurensis,6,1,
+Species,individuals
+Mentha_longifolia,20
+Gentianella_moorcroftiana,20
+Swertia_petiolata,10
+Artemisia_brevifolia,12
+Euphrasia_officinalis,10
+Hypericum_perforatum,7
+Verbascum_thapsus,1
+Rumex_nepalensis,2
+Trifolium_pratense,15
+Equisetum_arvense,5
+Epilobium_chitralense,3
+Pedicularis_punctata,6
+Arabidopsis_thaliana,1
+Plantago_depressa,3
+Kobresia_karakorumensis,15
+Taraxacum_officinale,10
+Euphrasia_schlagintweitii,12
+Plantago_himalaica,5
+Leontopodium_himalayanum,4
+Carum_carvi,5
+Ranunculus_distans,3
+Ferula_jaeschkeana,15
+Viola_kunawurensis,6

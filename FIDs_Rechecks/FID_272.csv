@@ -1,14 +1,8 @@
-Locality,"Airport, Kargil",,236_12_H1
-Date,11.09.2021,,
-Habitat,Desert steppe (Braided stream),,
-Elevation,2976,,
-Latitude,34.507891,,
-Longitude,76.153413,,
-Species,#individuals,%Cover,FID
-Cynanchum vincitoxicum,5,5,272
-Artemisia brevifolia,50,30,277
-Astragalus oplites,1,0.1,278
-Lactuca orientails,3,1,283
-Artemisia fragrans,35,20,284
-Astragalus munroi,6,1,
-Polygonum paronychioides,15,6,
+Species,individuals
+Cynanchum_vincitoxicum,5
+Artemisia_brevifolia,50
+Astragalus_oplites,1
+Lactuca_orientails,3
+Artemisia_fragrans,35
+Astragalus_munroi,6
+Polygonum_paronychioides,15

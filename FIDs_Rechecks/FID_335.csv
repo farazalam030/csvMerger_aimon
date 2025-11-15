@@ -1,13 +1,7 @@
-Locality,"Drass, Kargil",,
-Date,1.08.2022,,
-Habitat,Scrub steppe,,
-Elevation,2674,,
-Latitude,34.592763,,
-Longitude,76.00672,,
-Species,#individuals,%Cover,FID
-Cotoneaster affinis,30,20,335
-Ephedra intermdia,20,15,345
-Tanacetum gracile,35,25,346
-Ribes orientale,10,5,347
-Rosa webbiana,7,5,348
-Lepidium latifolium,3,1,
+Species,individuals
+Cotoneaster_affinis,30
+Ephedra_intermdia,20
+Tanacetum_gracile,35
+Ribes_orientale,10
+Rosa_webbiana,7
+Lepidium_latifolium,3

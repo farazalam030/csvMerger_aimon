@@ -1,21 +1,15 @@
-Locality,"Purtikche, Suru",,,
-Date,26.07.2022,,,
-Habitat,Stony steppe/stabilized slope,,,
-Elevation,3218,,,
-Latitude,34.1803,,,
-Longitude,75.9278,,,
-Species,#individuals,%Cover,FID,242_27_H1
-Rosa webbiana ,1,1,420,
-Artemisia salsoloides,47,60,421,
-Lindelofia anchusoides,8,3,422,
-Stachys tibetica,5,2,423,
-Scorzonera virgata,3,1,426,
-Taraxacum officinale,2,1,,
-Dysphania botrys,5,1,,
-Filago arvensis,6,1,,
-Eritrichum patens,2,1,,
-Heracleum pinnatum,1,1,,
-Astragalus falconeri,6,2,,
-Haloxylon thomsonii,3,1,,
-Polygonum molliiforme,3,0.5,,
-unid1,3,0.5,,
+Species,individuals
+Rosa_webbiana,1
+Artemisia_salsoloides,47
+Lindelofia_anchusoides,8
+Stachys_tibetica,5
+Scorzonera_virgata,3
+Taraxacum_officinale,2
+Dysphania_botrys,5
+Filago_arvensis,6
+Eritrichum_patens,2
+Heracleum_pinnatum,1
+Astragalus_falconeri,6
+Haloxylon_thomsonii,3
+Polygonum_molliiforme,3
+unid1,3

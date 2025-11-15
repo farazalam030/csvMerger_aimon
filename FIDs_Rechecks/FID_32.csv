@@ -1,10 +1,4 @@
-Locality,"Fokar, Kargil",,
-Date,8.10.2020,,
-Habitat,Riverine scrub,,
-Elevation,3317,,
-Latitude,34.386195,,
-Longitude,76.256623,,
-Species,#individuals,%Cover,FID
-Myricaria elegans,35,40,32
-Salix pycnostachya,20,25,33
-Hippophae rhamnoides,15,15,35
+Species,individuals
+Myricaria_elegans,35
+Salix_pycnostachya,20
+Hippophae_rhamnoides,15

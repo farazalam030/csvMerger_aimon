@@ -1,14 +1,8 @@
-Locality,NamkiLa,,
-Date,10.09.2021,,
-Habitat,Desert steppe,,
-Elevation,3653,,
-Latitude,34.37549,,
-Longitude,76.4754,,
-Species,#individuals,%Cover,FID
-Corydalis flabellata ,25,15,144
-Kobresia stenophylla,7,1,145
-Cirsium arvense,20,5,147
-Lactuca tatarica ,15,4,148
-Halogeton glomeratus,6,1,149
-Draba setosa,8,1,
-Astragalus strictus,20,8,
+Species,individuals
+Corydalis_flabellata,25
+Kobresia_stenophylla,7
+Cirsium_arvense,20
+Lactuca_tatarica,15
+Halogeton_glomeratus,6
+Draba_setosa,8
+Astragalus_strictus,20
