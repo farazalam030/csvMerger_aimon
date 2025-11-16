@@ -1,0 +1,35 @@
+import pandas as pd
+import numpy as np
+#CSVsList=["FID_486.csv","FID_489.csv","FID_492.csv","FID_494.csv","FID_495.csv","FID_496.csv","FID_503.csv","FID_508.csv","FID_510.csv","FID_511.csv","FID_512.csv","FID_515.csv","FID_516.csv","FID_520.csv","FID_523.csv","FID_524.csv","FID_527.csv","FID_528.csv","FID_529.csv","FID_535.csv","FID_547.csv","FID_550.csv","FID_555.csv","FID_556.csv","FID_559.csv","FID_561.csv","FID_571.csv","FID_576.csv","FID_585.csv","FID_587.csv","FID_598.csv","FID_611.csv","FID_619.csv","FID_621.csv","FID_634.csv","FID_642.csv","FID_643.csv","FID_648.csv","FID_649.csv","FID_670.csv","FID_671.csv","FID_672.csv","FID_673.csv","FID_674.csv","FID_675.csv","FID_676.csv","FID_677.csv","FID_678.csv","FID_679.csv","FID_680.csv","FID_681.csv","FID_682.csv","FID_683.csv","FID_684.csv","FID_685.csv","FID_686.csv","FID_687.csv","FID_688.csv","FID_689.csv","FID_690.csv","FID_691.csv","FID_692.csv"]
+CSVsList = ['FID_121.csv','FID_126.csv','FID_127.csv','FID_129.csv','FID_133.csv','FID_138.csv','FID_143.csv','FID_146.csv','FID_147.csv','FID_15.csv','FID_153.csv','FID_21.csv','FID_23.csv','FID_234.csv','FID_272.csv','FID_279.csv','FID_28.csv','FID_29.csv','FID_300.csv','FID_301.csv','FID_311.csv','FID_314.csv','FID_316.csv','FID_32.csv','FID_333.csv','FID_335.csv','FID_336.csv','FID_341.csv','FID_343.csv','FID_344.csv','FID_350.csv','FID_351.csv','FID_356.csv','FID_36.csv','FID_370.csv','FID_38.csv','FID_380.csv','FID_386.csv','FID_39.csv','FID_391.csv','FID_395.csv','FID_397.csv','FID_410.csv','FID_420.csv','FID_431.csv','FID_433.csv','FID_446.csv','FID_448.csv','FID_450.csv','FID_458.csv','FID_461.csv','FID_462.csv','FID_476.csv','FID_481.csv']
+spList=[]
+spDict = {}
+finalCSV="FinalRecheck.csv"
+mdf=pd.read_csv(finalCSV)
+## mdf.loc[mdf['FID-Species'] == 'FID_642','Bistorta_affinis'] = 1000
+#
+## mdf.loc[mdf['Bistorta_affinis'] == 0, 'Heracleum_pinnatum'] = 28
+## print(mdf)
+for csvfile in CSVsList:
+    inputCSV=csvfile
+    df_cleaned = pd.read_csv(inputCSV)
+    # print(df)
+    # df_cleaned = df.dropna(axis='columns',how='all')
+    # df_cleaned['individuals'] = np.where(pd.isna(df_cleaned['individuals']), df_cleaned['Cover_percent'], df_cleaned['individuals'])
+    print ("inputCSV = ",inputCSV)
+    csvRowKey=inputCSV.split('.')[0].strip()
+    print("csvRowKey = ",csvRowKey)
+    print(df_cleaned)
+    speciesListInCurrCSV=df_cleaned['Species'].to_list()
+    print('#####speciesListInCurrCSV#####\n', speciesListInCurrCSV)
+
+
+    for specName in speciesListInCurrCSV:
+        individuals=(df_cleaned.loc[df_cleaned['Species']== specName.strip()]['individuals'])
+        # individuals=int(individuals)
+        # int(ser.iloc[0])
+        print('individuals = ',individuals.iloc[0])
+        mdf.loc[mdf['FID-Species'] == csvRowKey,specName] = individuals.iloc[0]
+mdf.to_csv('Output_Rechecks_Final.csv',index=False)
+#
+#
